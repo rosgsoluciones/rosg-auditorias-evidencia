@@ -24,7 +24,7 @@
 ## 3. "Mis asesores responden rápido."
 **Qué hay detrás:** Cree que no tiene problema de atención y que la propuesta no le aplica.
 
-**Respuesta en llamada:** Me alegra óir eso, y se nota que cuidan a su gente. Mi pregunta es por los momentos en que no están: de noche, en fines de semana o cuando todos están en una visita. Hay personas que escriben justo entonces, y en inmobiliaria el primero que responde suele quedarse con la conversación. Por ejemplo, un comprador con crédito que escribe un domingo por la noche a tres agencias suele hablar con la que le contesta primero. Lo que proponemos no sustituye a sus asesores: cubre esos huecos y les entrega el contacto ya calificado. ¿Qué pasa hoy con los mensajes que llegan fuera de horario?
+**Respuesta en llamada:** Me alegra oír eso, y se nota que cuidan a su gente. Mi pregunta es por los momentos en que no están: de noche, en fines de semana o cuando todos están en una visita. Hay personas que escriben justo entonces, y en inmobiliaria el primero que responde suele quedarse con la conversación. Por ejemplo, un comprador con crédito que escribe un domingo por la noche a tres agencias suele hablar con la que le contesta primero. Lo que proponemos no sustituye a sus asesores: cubre esos huecos y les entrega el contacto ya calificado. ¿Qué pasa hoy con los mensajes que llegan fuera de horario?
 
 **Versión WhatsApp:** Qué bueno que respondan rápido. La idea es cubrir los momentos en que no pueden: noches, fines de semana o visitas, y entregarles el contacto ya calificado. ¿Qué pasa hoy con los mensajes fuera de horario?
 
