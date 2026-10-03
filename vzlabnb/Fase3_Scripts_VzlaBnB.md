@@ -25,7 +25,7 @@ Raúl de ROSG Soluciones
 ---
 
 ## Script 3 · Híbrido con gancho de auditoría
-Estuve viendo el Instagram de VzlaBnB y me gustó cómo muestras las suites de La Boyera. Preparé una mini auditoría gratuita con tres observaciones sobre cómo llegan hoy las consultas de huéspedes y qué pasa después de la primera pregunta. Son detalles comunes en alquileres temporales que están creciendo. ¿Me permites enviartéla por aquí, sin compromiso?
+Estuve viendo el Instagram de VzlaBnB y me gustó cómo muestras las suites de La Boyera. Preparé una mini auditoría gratuita con tres observaciones sobre cómo llegan hoy las consultas de huéspedes y qué pasa después de la primera pregunta. Son detalles comunes en alquileres temporales que están creciendo. ¿Me permites enviártela por aquí, sin compromiso?
 
 Raúl de ROSG Soluciones
 
