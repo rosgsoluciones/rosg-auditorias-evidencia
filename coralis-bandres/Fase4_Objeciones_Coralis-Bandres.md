@@ -24,7 +24,7 @@
 ## 3. "Ya atiendo bien, no tengo problema."
 **Qué hay detrás:** Con una calificación de 5,0 en Google, cree que su atención ya funciona.
 
-**Respuesta en llamada:** Lo creo; tiene calificación 5,0 y pacientes que la recomiendan. Eso es una fortaleza. Lo que me pregunto es cómo se coordina la agenda entre las dos sedes cuando todo llega por mensaje directo y WhatsApp. En lo que vi, no hay consultas pendientes visibles. Lo que proponemos no sustituye a su consultorio: cubre los momentos en que usted está en consulta y le avisa de lo importante. ¿Cómo responden hoy los mensajes que llegan durante la consulta?
+**Respuesta en llamada:** Lo creo; tiene calificación 5,0 con 9 reseñas. Eso es una fortaleza. Lo que me pregunto es cómo se coordina la agenda entre las dos sedes cuando todo llega por mensaje directo y WhatsApp, y si el chatbot que menciona el sitio deriva a una persona. En lo que vi, no hay consultas pendientes visibles. Lo que proponemos no sustituye a su consultorio: cubre los momentos en que usted está en consulta y le avisa de lo importante. ¿Cómo responden hoy los mensajes que llegan durante la consulta?
 
 **Versión WhatsApp:** Se nota el cuidado y es una fortaleza. La idea es cubrir los momentos en que usted está en consulta. ¿Cómo responden hoy los mensajes que llegan en ese rato?
 
