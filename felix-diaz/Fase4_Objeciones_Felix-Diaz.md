@@ -1,21 +1,21 @@
 # Fase 4 · Manual de 10 objeciones
-**Prospecto:** Dr. Félix Díaz Odontólogo · **Trato:** usted · Los ejemplos son hipotéticos; no hay casos de éxito ni cifras de clientes.
+**Prospecto:** Dr. Felix Diaz L Odontólogo · **Trato:** usted · Los ejemplos son hipotéticos; no hay casos de éxito ni cifras de clientes.
 
 ---
 
 ## 1. "Es muy caro / no tengo presupuesto."
 **Qué hay detrás:** Teme sumar un costo fijo sin retorno claro.
 
-**Respuesta en llamada:** Lo entiendo perfectamente, y por eso no le propongo un sistema gigante. La implementación se define con usted según lo que necesite, y la membresía es opcional: se cobra aparte, después de los dos meses de acompañamiento que incluye la implementación. Podemos empezar con una sola parte, por ejemplo responder de inmediato precio de la valoración, horarios, ubicación y agenda de citas. Si una cita adicional al mes llega por responder a tiempo, ya podemos evaluar si tiene sentido continuar, y lo vemos con sus números. ¿Le parece que midamos primero cuántas consultas le llegan al mes?
+**Respuesta en llamada:** Lo entiendo perfectamente, y por eso no le propongo un sistema gigante. La implementación se define con usted según lo que necesite, y la membresía es opcional: se cobra aparte, después de los dos meses de acompañamiento que incluye la implementación. Podemos empezar con una sola parte, por ejemplo responder de inmediato citas, disponibilidad y ubicación del consultorio. Si una cita adicional al mes llega por responder a tiempo, ya podemos evaluar si tiene sentido continuar, y lo vemos con sus números. ¿Le parece que midamos primero cuántas consultas le llegan al mes?
 
-**Versión WhatsApp:** Lo entiendo. Empezamos con una sola parte, por ejemplo responder precio de la valoración, horarios, ubicación y agenda de citas. La membresía es opcional, después de dos meses de acompañamiento. Lo medimos con sus números. ¿Cuántas consultas le llegan al mes?
+**Versión WhatsApp:** Lo entiendo. Empezamos con una sola parte, por ejemplo responder citas, disponibilidad y ubicación del consultorio. La membresía es opcional, después de dos meses de acompañamiento. Lo medimos con sus números. ¿Cuántas consultas le llegan al mes?
 
 ---
 
 ## 2. "La IA va a tratar frío o mal a mis pacientes/clientes."
 **Qué hay detrás:** Su reputación se apoya en la confianza y el trato personal; teme que un robot la enfríe.
 
-**Respuesta en llamada:** Tiene razón en cuidar eso: la confianza es lo más valioso de su práctica. El asistente se configura con su tono y sus respuestas reales, y se encarga solo de lo administrativo y repetitivo: saludar, responder precio de la valoración, horarios, ubicación y agenda de citas, y pasar a una persona cuando alguien quiere agendar o tiene un caso especial. Las preguntas clínicas nunca las responde el asistente: las deriva al equipo médico. Usted aprueba cada respuesta antes de activarlo. Así su equipo se dedica a atender bien, no a repetir la misma información cien veces. ¿Le gustaría que probemos con las cinco preguntas que más le hacen?
+**Respuesta en llamada:** Tiene razón en cuidar eso: la confianza es lo más valioso de su práctica. El asistente se configura con su tono y sus respuestas reales, y se encarga solo de lo administrativo y repetitivo: saludar, responder citas, disponibilidad y ubicación del consultorio, y pasar a una persona cuando alguien quiere agendar o tiene un caso especial. Las preguntas clínicas nunca las responde el asistente: las deriva al equipo médico. Usted aprueba cada respuesta antes de activarlo. Así su equipo se dedica a atender bien, no a repetir la misma información cien veces. ¿Le gustaría que probemos con las cinco preguntas que más le hacen?
 
 **Versión WhatsApp:** Tiene razón en cuidar el trato. El asistente usa su tono, responde solo lo administrativo y pasa a una persona cuando alguien quiere agendar. Usted aprueba antes de activarlo. ¿Probamos con las cinco preguntas más frecuentes?
 
@@ -42,7 +42,7 @@
 ## 5. "Ya probé un bot y fue un desastre."
 **Qué hay detrás:** Tuvo una mala experiencia con respuestas robóticas y teme repetirla.
 
-**Respuesta en llamada:** Lamento que le haya pasado; muchos bots fallan porque se instalan sin diagnosticar el proceso. Nosotros hacemos lo contrario: primero entendemos cómo atienden hoy, qué preguntan las personas y dónde se enfría el contacto. Después se configura el asistente con esas respuestas y se prueba antes de activarlo. Además, siempre deriva a una persona cuando la consulta lo exige. Un bot de menús fijos frustra; un asistente que entiende "cuánto cuesta la valoración para carillas y qué horarios tienen" y responde con lo que sí ofrecen se siente distinto. ¿Qué fue lo que más le molestó de esa experiencia?
+**Respuesta en llamada:** Lamento que le haya pasado; muchos bots fallan porque se instalan sin diagnosticar el proceso. Nosotros hacemos lo contrario: primero entendemos cómo atienden hoy, qué preguntan las personas y dónde se enfría el contacto. Después se configura el asistente con esas respuestas y se prueba antes de activarlo. Además, siempre deriva a una persona cuando la consulta lo exige. Un bot de menús fijos frustra; un asistente que entiende "quisiera agendar una cita y saber dónde queda el consultorio" y responde con lo que sí ofrecen se siente distinto. ¿Qué fue lo que más le molestó de esa experiencia?
 
 **Versión WhatsApp:** Entiendo, muchos bots fallan por instalarse sin diagnóstico. Aquí primero estudiamos su proceso, probamos antes de activar y siempre derivamos a una persona si hace falta. ¿Qué fue lo que más le molestó?
 
@@ -78,7 +78,7 @@
 ## 9. "Mis pacientes/clientes prefieren hablar con una persona."
 **Qué hay detrás:** Cree que el trato cercano genera confianza y que un sistema no lo transmite.
 
-**Respuesta en llamada:** Coincido: el trato cercano es lo que genera confianza, y nadie pretende cambiarlo. La propuesta es que el primer mensaje reciba respuesta de inmediato y que, cuando la persona hable con su equipo, ya estén claros qué necesita y desde dónde escribe. Por ejemplo, si alguien escribe "cuánto cuesta la valoración para carillas y qué horarios tienen", el asistente responde lo administrativo que ya publica y, si quiere agendar, pasa a una persona. Las preguntas clínicas nunca las responde el asistente: las deriva al equipo médico. Y si pide hablar con alguien, se deriva sin vueltas. ¿Le parece que lo repetitivo sea automático y el trato siempre con su equipo?
+**Respuesta en llamada:** Coincido: el trato cercano es lo que genera confianza, y nadie pretende cambiarlo. La propuesta es que el primer mensaje reciba respuesta de inmediato y que, cuando la persona hable con su equipo, ya estén claros qué necesita y desde dónde escribe. Por ejemplo, si alguien escribe "quisiera agendar una cita y saber dónde queda el consultorio", el asistente responde lo administrativo que ya publica y, si quiere agendar, pasa a una persona. Las preguntas clínicas nunca las responde el asistente: las deriva al equipo médico. Y si pide hablar con alguien, se deriva sin vueltas. ¿Le parece que lo repetitivo sea automático y el trato siempre con su equipo?
 
 **Versión WhatsApp:** Coincido, el trato cercano genera confianza. El asistente solo da la primera respuesta administrativa y pasa a una persona cuando alguien quiere agendar. ¿Probamos con lo repetitivo automático?
 
