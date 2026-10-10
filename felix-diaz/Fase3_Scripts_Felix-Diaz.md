@@ -1,13 +1,13 @@
 # Fase 3 · Scripts de contacto inicial
-**Prospecto:** Dr. Félix Díaz Odontólogo · **Trato:** usted (salud; el trato profesional lo exige)
+**Prospecto:** Dr. Felix Diaz L Odontólogo · **Trato:** usted (salud; el trato profesional lo exige)
 
 ## Canal recomendado
-**WhatsApp de la bio (+58 414 920 6756).** Es el contacto publicado en la bio y en el sitio. El correo citas@drfelixdiaz.com queda como segundo canal.
+**WhatsApp de citas del Linktree o teléfono de la bio.** Los dos números difieren (+58 414 129 1731 y 0414-9206756), por lo que conviene confirmar cuál atiende. DM de Instagram a @drfelixdiazl como alternativa.
 
 ---
 
 ## Script 1 · AIDA
-Buen día, Dr. Díaz. Vi que atiende en el CCCT, en Chuao, con una comunidad de más de 427.000 seguidores. Su sitio permite pedir cita por WhatsApp o por su sistema de citas. Cuando una cuenta crece así, ordenar las preguntas administrativas sobre precio de la valoración, horarios, ubicación y agenda de citas suele ocupar horas del equipo. Existe una forma sencilla de hacerlo sin cambiar su forma de atender. ¿Le gustaría que le comparta una observación concreta sobre su Instagram?
+Buen día, Dr. Díaz. Vi que su consultorio ofrece alta estética e implantología en el CCCT de Caracas. Se nota el alcance, con más de 428 mil seguidores en Instagram. Cuando una cuenta crece así, ordenar las preguntas administrativas sobre citas, disponibilidad y ubicación del consultorio suele ocupar horas del equipo. Existe una forma sencilla de hacerlo sin cambiar su forma de atender. ¿Le gustaría que le comparta una observación concreta sobre su Instagram?
 
 Raúl de ROSG Soluciones
 
@@ -16,7 +16,7 @@ Raúl de ROSG Soluciones
 ---
 
 ## Script 2 · PAS
-Me llamó la atención que una publicación suya de enero de 2025 llegó a más de 25.000 comentarios y casi cinco millones de reproducciones. Cuando tantas consultas llegan por comentarios y todo se atiende a mano, responder a tiempo suele sumar horas por semana. Existen sistemas que responden las preguntas frecuentes no clínicas y pasan al equipo a quien quiere agendar. ¿Le interesaría ver cómo funcionaría en su consultorio?
+Me llamó la atención que su sitio y su Linktree agendan las citas por WhatsApp, con números de contacto distintos en cada uno. Cuando tantas consultas llegan por comentarios y todo se atiende a mano, responder a tiempo suele sumar horas por semana. Existen sistemas que responden las preguntas frecuentes no clínicas y pasan al equipo a quien quiere agendar. ¿Le interesaría ver cómo funcionaría en su consultorio?
 
 Raúl de ROSG Soluciones
 
@@ -25,7 +25,7 @@ Raúl de ROSG Soluciones
 ---
 
 ## Script 3 · Híbrido con gancho de auditoría
-Estuve revisando su sitio y su Instagram y me gustó cómo combinan alta estética, implantología y una comunidad tan fiel. Preparé una mini auditoría gratuita con tres observaciones sobre cómo llegan hoy las consultas y qué pasa después del primer mensaje. Son detalles comunes en prácticas con mucha audiencia. ¿Me permite enviársela por aquí, sin compromiso?
+Estuve revisando el Instagram del Dr. Díaz y me gustó cómo presenta su consultorio con una audiencia tan grande. Preparé una mini auditoría gratuita con tres observaciones sobre cómo llegan hoy las consultas y qué pasa después del primer mensaje. Son detalles comunes en prácticas con mucha audiencia. ¿Me permite enviársela por aquí, sin compromiso?
 
 Raúl de ROSG Soluciones
 
