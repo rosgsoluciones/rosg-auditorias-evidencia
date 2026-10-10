@@ -1,64 +1,64 @@
 # Fase 5 · Ficha JSON para Auditoría en Vivo
-**Prospecto:** Dr. Félix Díaz Odontólogo
+**Prospecto:** Dr. Felix Diaz L Odontólogo
 
 ```json
 {
   "ficha_rosg": 1,
   "cliente": {
-    "nombre": "Dr. Félix Díaz Odontólogo",
+    "nombre": "Dr. Felix Diaz L Odontólogo",
     "nicho": "salud",
-    "subnicho": "consultorio odontológico de alta estética, cirugía bucal e implantología",
+    "subnicho": "consultorio odontológico con alta estética e implantología",
     "ciudad": "Caracas, Venezuela",
     "instagram": "@drfelixdiazl",
-    "web": "https://www.drfelixdiaz.com",
-    "whatsapp": "+584149206756",
+    "web": "https://linktr.ee/drfelixdiaz/",
+    "whatsapp": "",
     "email": "",
     "decisor": "",
-    "sedes": "Centro Comercial Ciudad Tamanaco (CCCT), Chuao, Caracas"
+    "sedes": "Centro Ciudad Comercial Tamanaco (CCCT), Urb. Chuao, Caracas (según el sitio web)"
   },
-  "resumen_previo": "El Dr. Félix Díaz tiene 427.521 seguidores y 2.885 publicaciones, y atiende en el CCCT, en Chuao. Una publicación de enero de 2025 suma 25.157 comentarios y 4.916.270 reproducciones. El sitio ofrece citas por WhatsApp o por su sistema de citas, y los 20 comentarios leídos de dos publicaciones recientes son felicitaciones, sin consultas visibles. La oportunidad es preparar el canal para el pico de consultas cuando una publicación se vuelve viral.",
+  "resumen_previo": "El Dr. Felix Diaz L tiene 428.392 seguidores y 2.888 publicaciones, y se presenta como odontólogo con alta estética e implantología en Caracas, CCCT. Dos publicaciones antiguas suman 25.157 y 6.532 comentarios, mientras las recientes tienen entre 7 y 50. Los comentarios leídos son felicitaciones, sin consultas visibles. El sitio y el Linktree agendan citas por WhatsApp, y los números de contacto difieren.",
   "observaciones": [
-    "427.521 seguidores y 2.885 publicaciones; la bio indica alta estética e implantología, CCCT, un teléfono y un enlace de citas",
-    "Una publicación del 15-ene-2025 suma 25.157 comentarios y 4.916.270 reproducciones; otra del 7-sep-2025, 6.531 comentarios; las recientes suman entre 1 y 50 comentarios",
-    "Los 20 comentarios leídos de dos publicaciones recientes son felicitaciones y agradecimientos; no hay consultas de precio o cita",
-    "Ofrece diseño de sonrisa, carillas, cirugía oral, periodoncia, ortodoncia, implantes y blanqueamiento; permite citas por WhatsApp o sistema de citas; incluye preguntas frecuentes y testimonios",
-    "Muestra teléfono, correo de citas y WhatsApp; en la página principal no se leyeron precios ni horarios",
+    "428.392 seguidores y 2.888 publicaciones; la bio indica odontólogo, cirujano bucal, alta estética e implantología, CCCT en Caracas y un teléfono",
+    "Una publicación del 15-ene-2025 suma 25.157 comentarios y 4.916.492 reproducciones; las recientes suman entre 7 y 50 comentarios",
+    "De 20 comentarios leídos en dos publicaciones recientes, todos son felicitaciones o saludos; no hay consultas",
+    "El sitio lista servicios, consultorio en CCCT y agenda por botones que abren WhatsApp; no se vio formulario ni horario",
+    "El Linktree enlaza WhatsApp para citas con +58 414 129 1731, distinto al 0414-9206756 de la bio y el sitio",
     "Tiempo de respuesta de WhatsApp: no verificable con lo recibido; prueba pendiente en llamada."
   ],
   "preguntas_extra": {
     "captacion": [
       {
-        "tema": "Publicaciones con mucho alcance",
-        "pregunta": "Cuando una publicación se vuelve viral y llegan muchas consultas al mismo tiempo, ¿cómo se atienden?",
+        "tema": "Líneas de contacto",
+        "pregunta": "Si hay más de un número de contacto, ¿cómo se unifican las consultas?",
         "opciones": [
-          "No se atienden",
-          "Se responden cuando hay tiempo",
-          "Se responden a mano por orden de llegada",
-          "Se responden al instante lo administrativo y se priorizan las citas"
+          "No se unifican",
+          "Cada número se atiende por separado",
+          "Se reenvían a mano entre personas",
+          "Todas llegan a un único flujo con seguimiento"
         ],
-        "recomendacion": "Responder al instante lo administrativo y priorizar las solicitudes de cita."
+        "recomendacion": "Unificar las consultas de todos los canales en un único flujo."
       }
     ],
     "triaje": [],
     "agenda": [
       {
-        "tema": "Citas por WhatsApp y sitio",
-        "pregunta": "Cuando alguien solicita cita por el sitio y otra persona por WhatsApp, ¿cómo se evita duplicar o perder solicitudes?",
+        "tema": "Agenda de citas",
+        "pregunta": "Cuando alguien escribe para una cita, ¿cómo se coordina el horario?",
         "opciones": [
-          "No se controla",
-          "Se revisa a mano cada canal",
-          "Se anota en una hoja",
-          "Todas las solicitudes llegan a un solo lugar con confirmación y recordatorio"
+          "No hay un orden definido",
+          "Se acuerda por chat y se anota a mano",
+          "Se agenda en un calendario compartido",
+          "Se ofrece horario disponible y se confirma con recordatorio"
         ],
-        "recomendacion": "Centralizar las solicitudes de ambos canales en un solo lugar con confirmación y recordatorio."
+        "recomendacion": "Ofrecer horarios disponibles y confirmar con recordatorio."
       }
     ],
     "crm": []
   },
   "calculadora": {
-    "leads_mes": 300,
-    "ticket": 250,
-    "cierre": 25
+    "leads_mes": 100,
+    "ticket": 120,
+    "cierre": 40
   },
   "propuesta": {
     "titular": "",
