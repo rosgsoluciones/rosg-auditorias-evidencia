@@ -7,56 +7,56 @@
   "cliente": {
     "nombre": "Family Smile Care",
     "nicho": "salud",
-    "subnicho": "clínica odontológica general y de especialidades",
+    "subnicho": "clínica odontológica",
     "ciudad": "Caracas, Venezuela",
     "instagram": "@familysmilecare",
-    "web": "https://clinicafamilysmilecare.com/",
+    "web": "https://wa.me/584226289319",
     "whatsapp": "+584226289319",
     "email": "",
     "decisor": "",
-    "sedes": "Torre América, piso 8, oficina 808, Sabana Grande (según la bio de Instagram)"
+    "sedes": "Torre América, piso 8, oficina 808, Sabana Grande (según la bio)"
   },
-  "resumen_previo": "Family Smile Care tiene 52.734 seguidores y 431 publicaciones, y es una clínica odontológica en Sabana Grande con odontología general, odontopediatría, implantología, ortodoncia y estética según su sitio. Una publicación del 30 de septiembre suma 28 comentarios y los 10 leídos piden precio o costo, sin respuesta visible. El sitio tiene formulario de citas, pero no muestra precios ni chat. La oportunidad es responder al instante lo repetitivo y llevar a cada persona a una cita.",
+  "resumen_previo": "Family Smile Care es una clínica odontológica con 52.909 seguidores y 434 publicaciones, con dirección en Sabana Grande y teléfono de contacto en la bio. Una publicación del 30-sep suma 96 comentarios y otra del 5-oct, 9. Los 13 comentarios leídos de esas dos publicaciones piden información, tarifas o precio, sin respuesta visible. La oportunidad es responder al instante lo administrativo y ordenar la agenda, sin tocar nada clínico.",
   "observaciones": [
-    "52.734 seguidores y 431 publicaciones; la bio indica Torre América, Sabana Grande, dos teléfonos y un WhatsApp",
-    "Una publicación del 30-sep suma 28 comentarios y otra del 17-jul suma 14; muchas publicaciones recientes tienen 0 comentarios",
-    "Los 10 comentarios leídos de la publicación del 30-sep piden precio o costo, y uno menciona tratamiento de conducto; en la del 17-jul, 3 de 6 piden precio o información de la consulta",
-    "Ninguno de los comentarios leídos tiene respuesta visible",
-    "El sitio ofrece formulario de citas, horario de lunes a viernes de 8:00 a 17:00 y sábados de 8:00 a 13:00, y no muestra precios, cotizador ni chat",
+    "52.909 seguidores y 434 publicaciones; la bio indica clínica odontológica, la dirección en Sabana Grande, un teléfono fijo y un WhatsApp",
+    "Una publicación del 30-sep sobre una jornada suma 96 comentarios; otra del 5-oct suma 9",
+    "Los 10 comentarios leídos de la publicación del 30-sep piden información, tarifas o costo, y uno dice que no ve el precio; los 3 leídos de la del 5-oct piden precio e información",
+    "Ninguno de los 13 comentarios leídos tiene respuesta visible",
+    "Varias publicaciones recientes de agradecimiento a pacientes y de contenido educativo tienen 0 comentarios",
     "Tiempo de respuesta de WhatsApp: no verificable con lo recibido; prueba pendiente en llamada."
   ],
   "preguntas_extra": {
     "captacion": [
       {
-        "tema": "Preguntas de precio",
-        "pregunta": "Cuando alguien comenta precio en una publicación, ¿cómo se le responde?",
+        "tema": "Consultas de tarifas",
+        "pregunta": "Cuando alguien comenta en una publicación pidiendo información o tarifas, ¿cómo se le responde?",
         "opciones": [
           "No se responde",
-          "Se responde cuando alguien lo ve",
-          "Se responde por mensaje privado a mano",
-          "Se responde en el momento con información general y se invita a agendar"
+          "Se responde cuando hay tiempo",
+          "Se responde a mano por mensaje privado",
+          "Se responde de inmediato con la información y se ofrece agendar"
         ],
-        "recomendacion": "Responder al instante con información general y llevar la conversación a una cita."
+        "recomendacion": "Responder de inmediato con la información administrativa y ofrecer agendar la cita."
       }
     ],
     "triaje": [],
     "agenda": [
       {
-        "tema": "Formulario de citas",
-        "pregunta": "Cuando alguien llena el formulario de citas del sitio, ¿cómo se confirma?",
+        "tema": "Jornadas",
+        "pregunta": "Cuando una jornada genera muchas consultas, ¿cómo se organiza la agenda de citas?",
         "opciones": [
-          "No se confirma",
-          "Se confirma cuando alguien lo revisa",
-          "Se llama o escribe a mano",
-          "Se confirma al instante y se envía un recordatorio antes de la cita"
+          "No hay un orden",
+          "Se anota en cuaderno o chat",
+          "Se anota en una hoja compartida",
+          "Se agenda en línea con confirmación y recordatorio"
         ],
-        "recomendacion": "Confirmar al instante y enviar un recordatorio antes de la cita."
+        "recomendacion": "Agendar con confirmación y recordatorio automático para ordenar la demanda."
       }
     ],
     "crm": []
   },
   "calculadora": {
-    "leads_mes": 200,
+    "leads_mes": 150,
     "ticket": 80,
     "cierre": 30
   },
