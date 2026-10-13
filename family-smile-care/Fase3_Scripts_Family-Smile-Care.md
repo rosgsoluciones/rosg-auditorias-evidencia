@@ -2,12 +2,12 @@
 **Prospecto:** Family Smile Care · **Trato:** usted (salud; el trato profesional lo exige)
 
 ## Canal recomendado
-**DM de Instagram a @familysmilecare.** Es donde se acumulan las preguntas de precio. El WhatsApp de la bio (+58 422 628 9319) queda como segundo canal.
+**DM de Instagram a @familysmilecare.** Es donde se acumulan las consultas de precio. El WhatsApp de la bio (+58 422 628 9319) queda como segundo canal.
 
 ---
 
 ## Script 1 · AIDA
-Buen día. Vi que Family Smile Care atiende en Sabana Grande y tiene una audiencia de más de 52 mil seguidores. Me llamó la atención que una publicación reciente reúne 28 comentarios de personas que preguntan el costo. Cuando una cuenta crece así, ordenar las preguntas administrativas sobre precio de la consulta, ubicación y horarios suele ocupar horas del equipo. Existe una forma sencilla de hacerlo sin cambiar su forma de atender. ¿Le gustaría que le comparta una observación concreta sobre su Instagram?
+Buen día. Vi que Family Smile Care atiende en Sabana Grande y que sus publicaciones de jornadas generan mucho interés. Una de ellas suma 96 comentarios. Cuando una cuenta crece así, ordenar las preguntas administrativas sobre precio, información de tarifas, horarios y ubicación suele ocupar horas del equipo. Existe una forma sencilla de hacerlo sin cambiar su forma de atender. ¿Le gustaría que le comparta una observación concreta sobre su Instagram?
 
 Raúl de ROSG Soluciones
 
@@ -16,7 +16,7 @@ Raúl de ROSG Soluciones
 ---
 
 ## Script 2 · PAS
-Revisé el Instagram de Family Smile Care y vi que los comentarios de la publicación del 30 de septiembre piden precio, y no veo respuestas visibles. Cuando tantas consultas llegan por comentarios y todo se atiende a mano, responder a tiempo suele sumar horas por semana. Existen sistemas que responden las preguntas frecuentes no clínicas y pasan al equipo a quien quiere agendar. ¿Le interesaría ver cómo funcionaría en su clínica?
+Me llamó la atención que en las publicaciones de Family Smile Care muchas personas piden información y tarifas en los comentarios, y no veo respuestas visibles. Cuando tantas consultas llegan por comentarios y todo se atiende a mano, responder a tiempo suele sumar horas por semana. Existen sistemas que responden las preguntas frecuentes no clínicas y pasan al equipo a quien quiere agendar. ¿Le interesaría ver cómo funcionaría en su clínica?
 
 Raúl de ROSG Soluciones
 
@@ -25,7 +25,7 @@ Raúl de ROSG Soluciones
 ---
 
 ## Script 3 · Híbrido con gancho de auditoría
-Estuve mirando el sitio y el Instagram de Family Smile Care y me gustó que ya tengan formulario de citas y horario de sábado. Preparé una mini auditoría gratuita con tres observaciones sobre cómo llegan hoy las consultas y qué pasa después del primer mensaje. Son detalles comunes en prácticas con mucha audiencia. ¿Me permite enviársela por aquí, sin compromiso?
+Estuve revisando el Instagram de Family Smile Care y me gustó cómo muestran a sus pacientes mes a mes y la renovación de sus espacios. Preparé una mini auditoría gratuita con tres observaciones sobre cómo llegan hoy las consultas y qué pasa después del primer mensaje. Son detalles comunes en prácticas con mucha audiencia. ¿Me permite enviársela por aquí, sin compromiso?
 
 Raúl de ROSG Soluciones
 
